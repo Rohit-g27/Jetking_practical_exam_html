@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>paragraph of html5</title>
+</head>
+<body>
+    <p>this is an example of html paragraph</p>
+    <p>html paragraph are block level elements</p>
+</body>
+</html>
+
+
+      this code shows an example of html paragraph
+  1-html paragraph used for writing paragraph or content in the html page
+  2-html paragraph are block level element also

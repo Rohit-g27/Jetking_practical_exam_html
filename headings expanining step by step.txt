@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>demonstrating html links</title>
+</head>
+<body>
+    <a href="https://jetking.com/" title="official website links">official website links</a> <br/><!-- this is a anchor link example-->
+    <a href="https://jetking.com/" target="_blank" title="official website link">official website link</a><br/><!--this is link uses for opening other page without closing current page-->
+    <a href="https://jetking.com/" title=" official website link"> <img src="crop img.jpg"/> we can use this image as a link </a><!--this image use as a link-->
+</body>
+</html>
+
+
+this is the code for defining html links 
+1-ancher used for defining the link
+2-second target black is used for the opening new page using link without closing current page
+3-3rd code is for we can use image as link by simply putting img tang inside the anchor tag

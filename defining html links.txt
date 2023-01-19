@@ -1,0 +1,20 @@
+            this is code for demonstrating html headings
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html heading</title>
+</head>
+<body>
+    <h1>this is heading 1 example</h1>      i can use the h1 for big font
+    <h2>this is an heading 2 example</h2>   after that h2 is smaller than h1
+    <h3>this is an heading 3 example</h3>   h3 is maller than h3 h4 is smaller than h4 so on
+                                             all this are the heading types defining using h1 to h6 tangs
+    <h4>this is a heading 4 example</h4>    
+    <h5>this is heading 5 example</h5>
+    <h6>this is heading 6 example</h6>
+</body>
+</html>
